@@ -1,0 +1,1 @@
+print("atharv is very brave boy \nand he is doing everythungs dedicately without any excuses")
