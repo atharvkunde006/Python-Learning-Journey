@@ -1,30 +1,21 @@
-#print number from 1to 10.
-for a in range(1,11):
- print(a)
+count=5
+while (count>0):
+    print(count)
+    count=count-1
 
- for a in range(10):
-  print(a+1)
+i=0
+while (i<3):
+    print(i)
+    i=i+1
 
-#print number reverse
-for a in range(10,0,-1):
- print(a)
 
- #even odd number
- for a in range(1,50):
-  if(a%2==0):
-   print("even number",a)
-  else:
-   print ("odd number",a)
+i=int(input("Enter the number: "))
+while (i<=38):
+    i=int(input("Enter the number:"))
+    print(i)
 
-#table of number using input
-a=int(input("Enter the number"))
-for i in range(1,11):
- print(a*i)
 
-# sum of first n number
-n= int(input("Enter n: "))
-total=0
-for i in range(1,n+1):
- tatal+=i
- print("sum=",total)
- 
+count=5
+while(count>0):
+    print(count)
+    count=count-1
