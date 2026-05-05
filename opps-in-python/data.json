@@ -1,0 +1,10 @@
+{
+  "name": "Atharv",
+  "age": 20,
+  "isStudent": true,
+  "skills": ["Python", "Data Analysis", "AI"],
+  "address": {
+    "city": "Mumbai",
+    "state": "Maharashtra"
+  }
+}

@@ -1,0 +1,1 @@
+{"name": "Atharv", "age": 20, "skills": ["Python", "AI"]}
